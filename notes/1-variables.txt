@@ -1,0 +1,29 @@
+basic types in python:
+myint = 5 <- numeric type
+myfloat = 13.2 <- numeric type
+mybool = True <- boolean
+mystr = "Arvin" <- string
+mylist = [0,1,"two", 8.4, True] <- list
+mytuple = (0, 1 ,2) <- tuple (sequence)
+mydict = {"one" : 1, "three" : 3} <- dictionary
+
+mutable = can change
+immutable = cannot change
+tuples and strings are immutable
+list are mutable
+
+slices can be used to get a subsection of a list 
+print(mylist[1:5]) -> prints out items 2 through 6
+print(mylist[1:5:2]) -> prints out every other item from 2 to 6 
+
+
+dictionaries use keys rather than indexes
+print(mydict["one"]) -> prints out whatever you assigned 'one' to
+
+differnt types of variables cannot be combined
+
+when inside a function definition, the variables you declare are confined to the inside of the function
+
+NEVER USE GLOBAL
+
+del mystr -> deletes the variable mystr
