@@ -1,0 +1,16 @@
+functions provide reusability of code parts
+functions create structures in the application which helps to better organize code
+
+we define functions by the following syntax:
+def func1():
+    statment
+function's scope starts with ':'
+the body of the function needs to be indented (in java we use '{}')
+
+functions are objects that have values
+
+we can return the values from functions with a return statment
+a function can have multiple arguments inside of the parentheses
+a function can have a default argument values
+for example:
+def power(num, x=1):

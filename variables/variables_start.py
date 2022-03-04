@@ -87,4 +87,4 @@ def someFun():
     print(name)
 someFun()
 
-# print(name) because the variable is out of scope
+# print(name) because the variable is out of scope 

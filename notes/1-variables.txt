@@ -1,4 +1,4 @@
-basic types in python:
+ba ic types in python:
 myint = 5 <- numeric type
 myfloat = 13.2 <- numeric type
 mybool = True <- boolean
@@ -27,3 +27,7 @@ when inside a function definition, the variables you declare are confined to the
 NEVER USE GLOBAL
 
 del mystr -> deletes the variable mystr
+
+the fact we dont define variable types in python make the language dynamic
+but in java all the variables need to be defined and they cannot be redefined 
+java is a static language 
