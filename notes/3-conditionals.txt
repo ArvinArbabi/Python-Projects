@@ -1,0 +1,22 @@
+in all programs you use conditionals for decision making
+for example:
+decision tree is used to reach conclusion
+
+in python, conditional flow uses if, elif, and else
+if [condition]:
+    [statment]
+else:
+    [statment]
+
+in case the number of selections are too long, we use match statments
+match [variable]:
+    case [value]:
+        [statment]
+    case [value]:
+        [statment]
+    case _:
+        [statment]
+
+    
+
+    

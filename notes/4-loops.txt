@@ -1,0 +1,14 @@
+running a program over and over again is called loop
+for loops and while loops are common accross almost all programing languages
+
+a while executes a block of code while the condition is true 
+
+a for loop uses a iterator in order to repeat the values in a collection
+
+in the range function, the first argument is inclusive, the second argument is exclusive
+for example:
+range(5,10) includes 5, but excludes 10
+adding a third number will make the number jump by said number
+
+break statments in loops will exit the loop
+continue statments will go forward with the loop and ignore the rest of the loop when the condition is met
