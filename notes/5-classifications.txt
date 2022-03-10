@@ -1,0 +1,7 @@
+classes can be put together and used in different modules
+classes help organize code
+every time you define a class, you define a new datatype
+
+classes can inherited from eachother, the base/parent class and the child classes
+
+overriding is when a child class changes the behavior of a function of it's parent
