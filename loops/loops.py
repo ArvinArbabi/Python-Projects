@@ -1,5 +1,3 @@
-from calendar import TUESDAY
-from unittest import result
 
 
 def main():

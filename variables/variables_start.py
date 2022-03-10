@@ -14,9 +14,6 @@
 
 # print(mylist[0:7:2])
 
-from uuid import NAMESPACE_X500
-
-
 us_state_to_abbrev = {
     "Alabama": "AL",
     "Alaska": "AK",
