@@ -1,0 +1,8 @@
+exceptions are used to prevent a code from crashing when an error occurs
+
+syntax:
+try:
+    [statment]
+except [type of exception]:
+    [what to do if 'statment' doesnt work]
+
